@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="4" passed="4">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="107" started-at="2021-03-09T03:08:24Z" finished-at="2021-03-09T03:08:24Z">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="107" started-at="2021-03-09T03:08:24Z" finished-at="2021-03-09T03:08:24Z">
+      <class name="UnitTesting.unitTest">
+        <test-method status="PASS" signature="add()[pri:0, instance:UnitTesting.unitTest@5b275dab]" name="add" duration-ms="30" started-at="2021-03-09T03:08:24Z" finished-at="2021-03-09T03:08:24Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- add -->
+        <test-method status="PASS" signature="divide()[pri:0, instance:UnitTesting.unitTest@5b275dab]" name="divide" duration-ms="6" started-at="2021-03-09T03:08:24Z" finished-at="2021-03-09T03:08:24Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- divide -->
+        <test-method status="PASS" signature="minus()[pri:0, instance:UnitTesting.unitTest@5b275dab]" name="minus" duration-ms="2" started-at="2021-03-09T03:08:24Z" finished-at="2021-03-09T03:08:24Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- minus -->
+        <test-method status="PASS" signature="multiply()[pri:0, instance:UnitTesting.unitTest@5b275dab]" name="multiply" duration-ms="2" started-at="2021-03-09T03:08:24Z" finished-at="2021-03-09T03:08:24Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- multiply -->
+      </class> <!-- UnitTesting.unitTest -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>

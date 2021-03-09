@@ -1,7 +1,7 @@
 package UnitTesting;
 
-import org.junit.BeforeClass;
-import org.junit.Test;
+import org.testng.annotations.BeforeClass;
+import org.testng.annotations.Test;
 
 public class TestCalculator {
 	@BeforeClass
